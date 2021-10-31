@@ -12,9 +12,6 @@
 - [ExpressJS](http://expressjs.com)
 - [Mariadb](https://github.com/mariadb-corporation/mariadb-connector-nodejs/blob/master/documentation/promise-api.md)
 
-
-** Next Version**
-- [Single Page Application](https://github.com/NobodyButMe-Haiya/SPA-MEJJ)
  
 **Future Updated**
 - Session Management Login
