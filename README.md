@@ -18,3 +18,5 @@
 
 **Youtube Preview**  
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/IjDBL8DDlFU/0.jpg)](http://www.youtube.com/watch?v=IjDBL8DDlFU " NodeJS  Crud in 2021")
+
+https://youtu.be/IjDBL8DDlFU
